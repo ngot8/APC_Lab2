@@ -13,4 +13,4 @@ flowchart TD
     G-->H[System<br />Validation]
 ```
 Requirement Specification:
-	- 
+  - "User" base class, derived "Student", "Instructor", and "Admin" classes
