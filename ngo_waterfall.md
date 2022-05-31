@@ -4,7 +4,7 @@ dateFormat  YYYY-MM-DD
 title Waterfall Model
 excludes  weekends
 
-section Software Process Model
+section Phase Timeline
 Requirements Definition               :         des1, 2022-05-11, 2022-05-31
 System and Software Design            :         des2, 2022-05-31, 2w
 Implementation and Unit Testing       :         des3, after des2, 5w
