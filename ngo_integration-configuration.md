@@ -31,4 +31,3 @@ Development and Integration:
 
 System Validation:
   - Bug fixes, user interface, testing.
-<!-- This content will not appear in the rendered Markdown -->
