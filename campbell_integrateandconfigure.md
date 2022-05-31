@@ -15,3 +15,13 @@
 
 6.	System Validation 
 -- Finally, run final tests and modify the code as needed
+
+```mermaid
+flowchart TD
+    A[Requirements Specification]--05/31/2022---B
+    B[Component Analysis]--06/14/2022---C
+    C[Rqeuirements Modification]--06/30/2022---D
+    D[System Design]--07/14/2022---E
+    E[Development and Integration]--07/30/2022---F
+    F[System Valdation]
+    ```
