@@ -12,3 +12,14 @@ Specification                 :         des4, 2022-05-10, 65d
 Development                   :         des5, 2022-05-10, 65d
 Validation                    :         des6, 2022-05-10, 65d
 ```
+
+Initial Version:
+  - Base "User" class; and "Student", "Instructor", "Admin" derived classes.
+  - No functions yet, only base attributes.
+
+Intermedate Version:
+  - Add fucntions to each derived class.
+  - Add database of courses and students.
+
+Final Version:
+  - Refine code, bug fixes, and user interface complete.
