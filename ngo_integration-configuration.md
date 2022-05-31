@@ -28,3 +28,6 @@ System Design:
 
 Development and Integration:
   - Use newly developed components.
+
+System Validation:
+  - Bug fixes, user interface, testing.
