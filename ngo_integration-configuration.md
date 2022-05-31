@@ -13,4 +13,9 @@ flowchart TD
     G-->H[System<br />Validation]
 ```
 Requirement Specification:
-  - "User" base class, derived "Student", "Instructor", and "Admin" classes
+  - "User" base class, derived "Student", "Instructor", and "Admin" classes in C++.
+  - SQLite: databases for courses and users.
+  - Unique functions for each role.
+
+Component Analysis:
+  - Most components aren't existing, they need to be created.
