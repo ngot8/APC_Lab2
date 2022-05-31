@@ -14,9 +14,9 @@ Waterfall:
 ```mermaid
 flowchart TD
 
-A[Requirements analysis and definition]-- 05/2022 ---B
-B[System Software and Design]-- 06/2022 ---C
-C[Implementation and Unit Testing]-- 07/2022 ---D
-D[Integration and System Testing]-- 08/2022 ---E
+A[Requirements analysis and definition]-- 05/31/2022 ---B
+B[System Software and Design]-- 06/14/2022 ---C
+C[Implementation and Unit Testing]-- 07/14/2022 ---D
+D[Integration and System Testing]-- 08/07/2022 ---E
 E[Operation and Maintenance]
 ```
