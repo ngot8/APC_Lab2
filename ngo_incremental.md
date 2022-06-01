@@ -18,7 +18,7 @@ Initial Version:
   - No functions yet, only base attributes.
 
 Intermedate Version:
-  - Add fucntions to each derived class.
+  - Add functions to each derived class.
   - Add database of courses and students.
 
 Final Version:
