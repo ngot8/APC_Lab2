@@ -1,6 +1,6 @@
 Waterfall:
  1.	Requirements analysis and definition:
-     We need a scheduling system as well as a database of courses    <!-- We also need a database for students, instructors, and admins - Tam Ngo -->
+     We need a scheduling system as well as a database of courses
  2.	System Software and Design:
      Database of courses
      1 User Class and 3 subclasses – student, instructor, and admin	
