@@ -1,3 +1,14 @@
+```mermaid
+flowchart TD
+    A[Requirements Specification]--06/14/2022---B
+    A--06/14/2022---C
+    B[Component Analysis]--06/30/2022---D
+    C[Rqeuirements Modification]--06/30/2022---D
+    D[System Design]--07/14/2022---E
+    E[Development and Integration]--07/31/2022---F
+    F[System Valdation]
+    ```
+
 1.	Requirements Specification:
 -- We need a scheduling system that can hold at least 100 students, 10 instructors, and 1 admin
 
@@ -15,14 +26,3 @@
 
 6.	System Validation 
 -- Finally, run final tests and modify the code as needed
-
-```mermaid
-flowchart TD
-    A[Requirements Specification]--06/14/2022---B
-    A--06/14/2022---C
-    B[Component Analysis]--06/30/2022---D
-    C[Rqeuirements Modification]--06/30/2022---D
-    D[System Design]--07/14/2022---E
-    E[Development and Integration]--07/31/2022---F
-    F[System Valdation]
-    ```
