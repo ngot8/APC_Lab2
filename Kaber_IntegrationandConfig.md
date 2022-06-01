@@ -6,4 +6,4 @@ With that kind of base, it could be integrated with a database where objects are
 
 <!-- Where should this "existing code" come from? - Tam Ngo-->
 <!-- What project is this interface from? - Tam Ngo-->
-<!-- Lack of details regarding where each component comes from, what specifications are given, decions on whether components should be revised. - Tam Ngo-->
+<!-- Lack of details regarding where each component comes from, what specifications are given, decisions on whether components should be revised. - Tam Ngo-->
