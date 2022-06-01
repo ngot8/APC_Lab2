@@ -7,3 +7,6 @@ Incremental Model:
 	The most important part being the ability to change their own schedules. 
 	Then changing each other’s. 
 	The database functions would need to be added in the final version. 
+
+<!-- Missing projected time line for each iteration - Tam Ngo -->
+<!-- Lack of diagram - Tam Ngo-->
