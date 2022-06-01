@@ -6,4 +6,4 @@ Make sure to add .md at the end so you can use github functions like making merm
 ~*Comment* I like this idea, the gantt charts and flowcharts seem to work well with this type of graph. I'd recommend adding in some written details to help make each stage more developed
 -Matt
 
-This Repository is currently private. The lab is due today at midnight so before I go to sleep i'll make it public so that I can send him the link.
+COMMENTS - To make comments use the syntax: "<!-- comments --> "
