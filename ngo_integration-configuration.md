@@ -18,7 +18,7 @@ Requirement Specification:
   - Unique functions for each role.
 
 Component Analysis:
-  - Most components aren't existing, they need to be created.
+  - Most components aren't existing, they need to be created. The interface can be taken from another project as it is common.
 
 Requirement Modification:
   - Cannot modify specs.
