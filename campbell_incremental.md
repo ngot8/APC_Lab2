@@ -19,4 +19,4 @@ Fifth Iteration               :         des5, after des4, 14d
 5.  This would continue for any other things that might come up along the way
 
 <!-- When do you plan to incorporate the database for course? - Tam Ngo -->
-<!-- Do all Iterations take about the same time or do they take longer or shorter depending on the task? -->
+<!-- Do all Iterations take about the same time or do they take longer or shorter depending on the task? - TAm Ngo-->
