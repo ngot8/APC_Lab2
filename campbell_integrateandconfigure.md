@@ -7,7 +7,7 @@ flowchart TD
     D[System Design]--07/14/2022---E
     E[Development and Integration]--07/31/2022---F
     F[System Valdation]
-    ```
+```
 
 1.	Requirements Specification:
 -- We need a scheduling system that can hold at least 100 students, 10 instructors, and 1 admin
